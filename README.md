@@ -6,7 +6,7 @@ One of the most prevalent real-world applications of machine learning is forecas
 
 Time series forecasting is a well-established discipline with a rich history. This course concentrates on the utilization of contemporary machine learning techniques for analyzing time series data, with the primary objective of generating highly accurate predictions. The course draws inspiration from successful solutions in past Kaggle forecasting competitions but remains relevant for any scenario where precision in forecasting is vital.
 
-Upon completing this, you will gain proficiency in time series:
+* Upon completing this, you will gain proficiency in time series:
 
 1. Crafting features to model the key components of time series, including trends, seasons, and cycles.
 2. Visualizing time series data through a variety of plots and graphs.
