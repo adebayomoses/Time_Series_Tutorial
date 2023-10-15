@@ -1,5 +1,5 @@
 # Time_Series_Tutorial
-Time Series Tutorial for beginners using Store Sales Data Set
+Time Series Tutorial for Beginners Using Store Sales Data Set
 Welcome to the realm of Time Series!
 
 One of the most prevalent real-world applications of machine learning is forecasting. Businesses forecast product demand, governments predict economic and population growth, and meteorologists forecast the weather. The need to comprehend future events is a significant demand spanning across various domains, from science and government to industry and our everyday lives. In response to this growing need, professionals in these fields are increasingly turning to machine learning as a solution.
