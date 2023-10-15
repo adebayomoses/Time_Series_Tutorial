@@ -11,7 +11,7 @@ Time series forecasting is a well-established discipline with a rich history. Th
 1. Crafting features to model the key components of time series, including trends, seasons, and cycles.
 2. Visualizing time series data through a variety of plots and graphs.
 3. Developing forecasting hybrids that harness the strengths of complementary models.
-4. Adapting machine learning methodologies to a wide range of forecasting challenges.
+4. Adapting machine learning methodologies to a wide range of forecasting challenges
 
 Let's delve into the fundamental concept: What is a Time Series?
 
