@@ -13,6 +13,6 @@ Time series forecasting is a well-established discipline with a rich history. Th
 3. Developing forecasting hybrids that harness the strengths of complementary models.
 4. Adapting machine learning methodologies to a wide range of forecasting challenges.
 
-Let's delve into the fundamental concept: What is a Time Series
+Let's delve into the fundamental concept: What is a Time Series?
 
 A time series is the cornerstone of forecasting, representing a collection of observations recorded over time. In forecasting applications, these observations are typically gathered at regular intervals, such as daily or monthly.
